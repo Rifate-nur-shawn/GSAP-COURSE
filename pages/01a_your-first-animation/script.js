@@ -1,3 +1,4 @@
+import { gsap } from 'gsap';
 gsap.to('.card',{
     x:-100,
     y:100,
